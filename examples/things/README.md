@@ -1,6 +1,3 @@
-# Android Things Example
----
-
-This directory contains example source code for an Android Things integration of
-lib_avb and lib_avb_atx. The implementation includes rollback index management
-and Verified Boot Hash (VBH) computation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b876b84f1de25cddbaafdf3c87f02f8a8291d289297c2c1a3b2ff24a343b0f9a
+size 232
